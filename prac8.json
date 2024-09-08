@@ -3,54 +3,54 @@
     "name": "Meet",
     "university": "Marwadi University",
     "branch": "Computer Science",
-    "rollNo": "CS202401"
+    "rollNo": "01"
   },
   {
     "name": "Shrey",
     "university": "Marwadi University",
     "branch": "Electrical Engineering",
-    "rollNo": "EE202402"
+    "rollNo": "02"
   },
   {
     "name": "Harsh",
     "university": "Marwadi University",
     "branch": "Mechanical Engineering",
-    "rollNo": "ME202403"
+    "rollNo": "03"
   },
   {
     "name": "Tirth",
     "university": "Marwadi University",
     "branch": "Civil Engineering",
-    "rollNo": "CE202404"
+    "rollNo": "04"
   },
   {
     "name": "Parthav",
     "university": "Marwadi University",
     "branch": "Information Technology",
-    "rollNo": "IT202405"
+    "rollNo": "05"
   },
   {
     "name": "Kirtan",
     "university": "Marwadi University",
     "branch": "Automobile Engineering",
-    "rollNo": "AE202406"
+    "rollNo": "06"
   },
   {
     "name": "Jay",
     "university": "Marwadi University",
     "branch": "Architecture",
-    "rollNo": "AR202407"
+    "rollNo": "07"
   },
   {
     "name": "Darshit",
     "university": "Marwadi University",
     "branch": "Chemical Engineering",
-    "rollNo": "CE202408"
+    "rollNo": "08"
   },
   {
     "name": "Dvij",
     "university": "Marwadi University",
-    "branch": "Industrial Engineering",
-    "rollNo": "IE202409"
+    "branch": "Automobile Engineering",
+    "rollNo": "09"
   }
 ]
